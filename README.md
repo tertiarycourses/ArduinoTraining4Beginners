@@ -1,5 +1,5 @@
 # Get Started with Arduino for Beginners
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Get Started with Arduino for Beginners](https://www.tertiarycourses.com.sg/arduino-tutorial-training-for-beginners-in-singapore.html) course. 
 
