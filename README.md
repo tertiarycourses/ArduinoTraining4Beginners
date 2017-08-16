@@ -6,6 +6,7 @@ These are the exercise files used for [Get Started with Arduino for Beginners](h
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/arduino-tutorial-training-for-beginners-in-singapore.html
+https://www.tertiarycourses.com.my/arduino-essential-training-in-malaysia.html
 
 <p><strong>Module 1: Introduction to Arduino</strong></p>
 <ul>
