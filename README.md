@@ -1,11 +1,11 @@
-# Get Started with Arduino for Beginners
+# Arduino Essential Training
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Get Started with Arduino for Beginners](https://www.tertiarycourses.com.sg/arduino-tutorial-training-for-beginners-in-singapore.html) course. 
+These are the exercise files used for [Arduino Essential Training](https://www.tertiarycourses.com.sg/arduino-essential-training-in-singapore.html) course. 
 
 The course outline can be found in 
 
-https://www.tertiarycourses.com.sg/arduino-tutorial-training-for-beginners-in-singapore.html
+https://www.tertiarycourses.com.sg/arduino-essential-training-in-singapore.html
 https://www.tertiarycourses.com.my/arduino-essential-training-in-malaysia.html
 
 <p><strong>Module 1: Introduction to Arduino</strong></p>
