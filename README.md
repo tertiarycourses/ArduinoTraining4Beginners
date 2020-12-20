@@ -1,5 +1,5 @@
 # Arduino Essential Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Arduino Essential Training](https://www.tertiarycourses.com.sg/arduino-essential-training-in-singapore.html) course. 
 
